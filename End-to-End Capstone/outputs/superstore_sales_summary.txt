@@ -1,0 +1,22 @@
+
+SUPERSTORE SALES EDA – SUMMARY
+==============================
+
+1) Total Revenue: 1565804.3232
+
+2) Average Order Value: 521.41
+
+3) Top Region: West (522441.052)
+
+4) Most Profitable Product: 3D Systems Cube Printer, 2nd Generation, Magenta (14334.89)
+
+5) Sales Seasonality:
+   See monthly trend chart for patterns.
+
+KEY INSIGHTS:
+- Region West generates the highest revenue.
+- Top products contribute disproportionately to total revenue.
+- Month-over-month trend shows seasonal patterns.
+
+EXPORTS:
+- All charts are saved in outputs/ folder.
