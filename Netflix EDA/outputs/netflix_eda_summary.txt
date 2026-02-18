@@ -1,0 +1,24 @@
+
+NETFLIX DATASET EDA SUMMARY
+===========================
+
+1. Total Titles: 8807
+
+2. Movies: 6131
+   TV Shows: 2676
+
+3. Peak Content Addition Year:
+   2019.0 with 2016 titles added.
+
+4. Most Common Genre:
+   International Movies (2752 titles)
+
+5. Most Frequent Release Year:
+   2018 (1147 titles)
+
+INSIGHTS:
+- Netflix content increased significantly after 2015.
+- Movies dominate the platform compared to TV shows.
+- Drama and International genres are highly common.
+- Most movies range between 80–120 minutes.
+- Most TV shows have 1–3 seasons.

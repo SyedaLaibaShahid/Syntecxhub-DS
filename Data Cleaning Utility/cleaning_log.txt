@@ -1,0 +1,5 @@
+Filled missing values in TOTAL_BILL with mean (19.81)
+Filled missing values in TIP with mean (2.98)
+Converted SIZE to integer type
+Removed 4 duplicate rows
+Standardized column names to lowercase
