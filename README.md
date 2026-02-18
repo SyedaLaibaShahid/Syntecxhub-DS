@@ -1,1 +1,1 @@
-# Syntecxhub
+# Syntecxhub - Data Science
